@@ -1,0 +1,7 @@
+# Hi now am creating demo file in main branch
+# For now i want to push before pulling
+# To check want happens
+# git status
+# git add Directory_name
+# git commint -m " dir push "
+
